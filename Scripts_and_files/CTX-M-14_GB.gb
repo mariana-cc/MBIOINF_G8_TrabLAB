@@ -1,0 +1,72 @@
+LOCUS       NC_016838                852 bp    DNA     linear   CON 03-AUG-2016
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae HS11286 plasmid pKPHS1,
+            complete sequence.
+ACCESSION   NC_016838 REGION: complement(31843..32694)
+VERSION     NC_016838.1
+DBLINK      BioProject: PRJNA84387
+            Assembly: GCF_000240185.1
+KEYWORDS    RefSeq.
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae HS11286
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae HS11286
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (bases 1 to 852)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2012) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 852)
+  AUTHORS   Ou,H.-Y., Jiang,X., Liu,P. and Li,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-2011) State Key Laboratory of Microbial
+            Metabolism, Shanghai Jiaotong University, 1954 Huashan Road,
+            Shanghai 200030, China
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to CP003223.
+            RefSeq Category: Reference Genome
+                        CLI: Clinical Isolate
+            Source DNA is available from Hong-Yu Ou at hyou@sjtu.edu.cn.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..852
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     HS11286"
+                     /mol_type="genomic DNA"
+                     /strain="HS11286"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:1125630"
+                     /plasmid="pKPHS1"
+     gene            1..852
+                     /locus_tag="KPHS_p100340"
+                     /db_xref="GeneID:11817930"
+     CDS             1..852
+                     /locus_tag="KPHS_p100340"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase CTX-M-14"
+                     /protein_id="YP_005220841.1"
+                     /db_xref="GeneID:11817930"
+                     /translation="MMFAAAACIPLLLGSAPLYAQTSAVQQKLAALEKSSGGRLGVAL
+                     IDTADNTQVLYRGDERFPMCSTSKVMAAAAVLKQSETQKQLLNQPVEIKPADLVNYNP
+                     IAEKHVNGTMTLAELSAAALQYSDNTAMNKLIAQLGGPGGVTAFARAIGDETFRLDRT
+                     EPTLNTAIPGDPRDTTTPRAMAQTLRQLTLGHALGETQRAQLVTWLKGNTTGAASIRA
+                     GLPTSWTVGDKTGSGDYGTTNDIAVIWPQGRAPLVLVTYFTQPQQNAESRRDVLASAA
+                     RIIAEGL"
+ORIGIN      
+        1 atgatgttcg cggcggcggc gtgcattccg ctgctgctgg gcagcgcgcc gctttatgcg
+       61 cagacgagtg cggtgcagca aaagctggcg gcgctggaga aaagcagcgg agggcggctg
+      121 ggcgtcgcgc tcatcgatac cgcagataat acgcaggtgc tttatcgcgg tgatgaacgc
+      181 tttccaatgt gcagtaccag taaagttatg gcggccgcgg cggtgcttaa gcagagtgaa
+      241 acgcaaaagc agctgcttaa tcagcctgtc gagatcaagc ctgccgatct ggttaactac
+      301 aatccgattg ccgaaaaaca cgtcaacggc acaatgacgc tggcagaact gagcgcggcc
+      361 gcgttgcagt acagcgacaa taccgccatg aacaaattga ttgcccagct cggtggcccg
+      421 ggaggcgtga cggcttttgc ccgcgcgatc ggcgatgaga cgtttcgtct ggatcgcact
+      481 gaacctacgc tgaataccgc cattcccggc gacccgagag acaccaccac gccgcgggcg
+      541 atggcgcaga cgttgcgtca gcttacgctg ggtcatgcgc tgggcgaaac ccagcgggcg
+      601 cagttggtga cgtggctcaa aggcaatacg accggcgcag ccagcattcg ggccggctta
+      661 ccgacgtcgt ggactgtggg tgataagacc ggcagcggcg actacggcac caccaatgat
+      721 attgcggtga tctggccgca gggtcgtgcg ccgctggttc tggtgaccta ttttacccag
+      781 ccgcaacaga acgcagagag ccgccgcgat gtgctggctt cagcggcgag aatcatcgcc
+      841 gaagggctgt aa
+//
+

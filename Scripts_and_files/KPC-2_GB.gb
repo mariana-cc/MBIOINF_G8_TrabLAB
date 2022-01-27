@@ -1,0 +1,72 @@
+LOCUS       NC_016846                882 bp    DNA     linear   CON 03-AUG-2016
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae HS11286 plasmid pKPHS2,
+            complete sequence.
+ACCESSION   NC_016846 REGION: 20557..21438
+VERSION     NC_016846.1
+DBLINK      BioProject: PRJNA84387
+            Assembly: GCF_000240185.1
+KEYWORDS    RefSeq.
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae HS11286
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae HS11286
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (bases 1 to 882)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2012) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 882)
+  AUTHORS   Ou,H.-Y., Jiang,X., Liu,P. and Li,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-2011) State Key Laboratory of Microbial
+            Metabolism, Shanghai Jiaotong University, 1954 Huashan Road,
+            Shanghai 200030, China
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to CP003224.
+            RefSeq Category: Reference Genome
+                        CLI: Clinical Isolate
+            Source DNA is available from Hong-Yu Ou at hyou@sjtu.edu.cn.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..882
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     HS11286"
+                     /mol_type="genomic DNA"
+                     /strain="HS11286"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:1125630"
+                     /plasmid="pKPHS2"
+     gene            1..882
+                     /locus_tag="KPHS_p200360"
+                     /db_xref="GeneID:11844849"
+     CDS             1..882
+                     /locus_tag="KPHS_p200360"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Class A Carbapenemase Kpc-2"
+                     /protein_id="YP_005229652.1"
+                     /db_xref="GeneID:11844849"
+                     /translation="MSLYRRLVLLSCLSWPLAGFSATALTNLVAEPFAKLEQDFGGSI
+                     GVYAMDTGSGATVSYRAEERFPLCSSFKGFLAAAVLARSQQQAGLLDTPIRYGKNALV
+                     PWSPISEKYLTTGMTVAELSAAAVQYSDNAAANLLLKELGGPAGLTAFMRSIGDTTFR
+                     LDRWELELNSAIPGDARDTSSPRAVTESLQKLTLGSALAAPQRQQFVDWLKGNTTGNH
+                     RIRAAVPADWAVGDKTGTCGVYGTANDYAVVWPTGRAPIVLAVYTRAPNKDDKHSEAV
+                     IAAAARLALEGLGVNGQ"
+ORIGIN      
+        1 atgtcactgt atcgccgtct agttctgctg tcttgtctct catggccgct ggctggcttt
+       61 tctgccaccg cgctgaccaa cctcgtcgcg gaaccattcg ctaaactcga acaggacttt
+      121 ggcggctcca tcggtgtgta cgcgatggat accggctcag gcgcaactgt aagttaccgc
+      181 gctgaggagc gcttcccact gtgcagctca ttcaagggct ttcttgctgc cgctgtgctg
+      241 gctcgcagcc agcagcaggc cggcttgctg gacacaccca tccgttacgg caaaaatgcg
+      301 ctggttccgt ggtcacccat ctcggaaaaa tatctgacaa caggcatgac ggtggcggag
+      361 ctgtccgcgg ccgccgtgca atacagtgat aacgccgccg ccaatttgtt gctgaaggag
+      421 ttgggcggcc cggccgggct gacggccttc atgcgctcta tcggcgatac cacgttccgt
+      481 ctggaccgct gggagctgga gctgaactcc gccatcccag gcgatgcgcg cgatacctca
+      541 tcgccgcgcg ccgtgacgga aagcttacaa aaactgacac tgggctctgc actggctgcg
+      601 ccgcagcggc agcagtttgt tgattggcta aagggaaaca cgaccggcaa ccaccgcatc
+      661 cgcgcggcgg tgccggcaga ctgggcagtc ggagacaaaa ccggaacctg cggagtgtat
+      721 ggcacggcaa atgactatgc cgtcgtctgg cccactgggc gcgcacctat tgtgttggcc
+      781 gtctacaccc gggcgcctaa caaggatgac aagcacagcg aggccgtcat cgccgctgcg
+      841 gctagactcg cgctcgaggg attgggcgtc aacgggcagt aa
+//
+

@@ -1,0 +1,127 @@
+LOCUS       NC_016845               3078 bp    DNA     linear   CON 02-JUN-2020
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae HS11286 chromosome,
+            complete genome.
+ACCESSION   NC_016845 REGION: 3600353..3603430
+VERSION     NC_016845.1
+DBLINK      BioProject: PRJNA84387
+            Assembly: GCF_000240185.1
+KEYWORDS    RefSeq.
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae HS11286
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae HS11286
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (bases 1 to 3078)
+  AUTHORS   Liu,P., Li,P., Jiang,X., Bi,D., Xie,Y., Tai,C., Deng,Z.,
+            Rajakumar,K. and Ou,H.Y.
+  TITLE     Complete genome sequence of Klebsiella pneumoniae subsp. pneumoniae
+            HS11286, a multidrug-resistant strain isolated from human sputum
+  JOURNAL   J. Bacteriol. 194 (7), 1841-1842 (2012)
+   PUBMED   22408243
+REFERENCE   2  (bases 1 to 3078)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2012) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3078)
+  AUTHORS   Ou,H.-Y., Jiang,X., Liu,P. and Li,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2011) State Key Laboratory of Microbial
+            Metabolism, Shanghai Jiaotong University, 1954 Huashan Road,
+            Shanghai 200030, China
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to CP003200.
+            RefSeq Category: Reference Genome
+                        CLI: Clinical Isolate
+            Source DNA is available from Hong-Yu Ou at hyou@sjtu.edu.cn.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3078
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     HS11286"
+                     /mol_type="genomic DNA"
+                     /strain="HS11286"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:1125630"
+     gene            1..3078
+                     /locus_tag="KPHS_35880"
+                     /db_xref="GeneID:11848619"
+     CDS             1..3078
+                     /locus_tag="KPHS_35880"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="multidrug efflux system subunit MdtC"
+                     /protein_id="YP_005227888.1"
+                     /db_xref="GeneID:11848619"
+                     /translation="MKFFALFIYRPVATILISLAITLCGILGFRLLPVAPLPQVDFPV
+                     IMVSASLPGASPETMASSVATPLERSLGRIAGVNEMTSSSSLGSTRIILEFNFDRDIN
+                     GAARDVQAAINAAQSLLPSGMPSRPTYRKANPSDAPIMILTLTSDTYSQGELYDFAST
+                     QLAQTIAQIDGVGDVDVGGSSLPAVRVDLNPQALFNQGVSLDAVRTAISDANVRKPQG
+                     ALEDSAHRWQVQTNDELKTAADYQPLIVHYQNGAAVRLGDVATVSDSVQDVRNAGMTN
+                     AKPAILLMIRKLPEANIIQTVDSIRARLPELQQTIPAAIDLQIAQDRSPTIRASLEEV
+                     EQTLVISVALVILVVFLFLRSGRATLIPAVAVPVSLIGTFAAMYLCGFSLNNLSLMAL
+                     TIATGFVVDDAIVVLENISRHLEAGMKPLQAALQGSREVGFTVLSMSLSLVAVFLPLL
+                     LMGGLPGRLLREFAVTLSVAIGISLAVSLTLTPMMCGWLLKSGKPHQPTRNRGFGRLL
+                     VAVQGGYGKSLKWVLKHSRLTGLVVLGTIALSVWLYISIPKTFFPEQDTGVLMGGIQA
+                     DQSISFQAMRGKLQDFMKIIREDPAVDNVTGFTGGSRVNSGMMFITLKPRDQRHETAQ
+                     QVIDRLRKKLANEPGANLFLMAVQDIRVGGRQSNASYQYTLLSDDLSALREWEPKIRK
+                     ALAVLPELADVNSDQQDNGAEMDLVYDRDTMSRLGISVQDANNLLNNAFGQRQISTIY
+                     QPLNQYKVVMEVDPAYTQDVSALDKMFVINSDGKPIPLAYFAKWQPANAPLSVNHQGL
+                     SAASTISFNLPTGRSLSEASEAIDRAMTQLGVPSSVRGSFAGTAQVFQQTMNAQVILI
+                     LAAIATVYIVLGVLYESYVHPLTILSTLPSAGVGALLALEIFDAPFSLIALIGIMLLI
+                     GIVKKNAIMMVDFALEAQRNGNLTPEEAIFQACLLRFRPIMMTTLAALFGALPLVLSG
+                     GDGSELRQPLGITIVGGLVMSQLLTLYTTPVVYLFFDRLRLRFSRHSSQPVSE"
+ORIGIN      
+        1 gtgaagtttt tcgccctctt catttaccgc ccggtggcga cgatcctcat ctcgctggcc
+       61 atcaccctgt gcggcattct cggcttccgg ctgctgccgg tagccccgct gccgcaggtg
+      121 gacttcccgg tgatcatggt tagcgcctcg ctgccgggag cctcgccgga gaccatggcc
+      181 tcgtcggtgg ccaccccgct ggagcgctcc ctgggacgaa tagccggggt caatgagatg
+      241 acctcctcca gctcgctcgg cagcacccgc atcattctcg agtttaactt cgaccgcgat
+      301 atcaacggcg cggcgcgcga cgttcaggcg gcgatcaacg ccgcgcaaag cctgctgccg
+      361 agcggaatgc ccagccggcc gacctatcgc aaagccaatc cgtcggatgc gccgatcatg
+      421 atcctgacgc tgacctcgga cacctactcc cagggtgagc tgtatgattt cgcctccacc
+      481 cagctggcgc agaccatcgc gcagatcgac ggcgtgggcg atgtcgacgt cggcggcagc
+      541 tccctgccgg cggtgcgcgt cgacctcaac ccacaggcgc tgtttaacca gggcgtgtcg
+      601 ctggacgcgg tgcgcaccgc catcagcgac gccaacgtgc gcaaaccgca gggggcgctg
+      661 gaggacagcg cgcaccgctg gcaggtgcag accaacgatg agctgaagac cgccgccgac
+      721 tatcagccac tgatcgtcca ctatcaaaat ggcgccgcgg tgcggctggg agatgtcgct
+      781 accgtctcgg attcggtgca ggacgtacgc aacgccggga tgaccaacgc caaaccggcg
+      841 atcctgctga tgatccgcaa actgccggaa gccaatatca ttcagacggt ggacagcatc
+      901 cgcgcccgcc tgccggagct gcagcagacc attccggcgg ctatcgacct gcagatcgcc
+      961 caggaccgct cgccgaccat ccgcgcctcg ctggaggagg tggagcagac gctggtgatt
+     1021 tcggtggcgc tggtgatcct cgtggtgttc ctgttcctgc gctcgggacg cgccacgctg
+     1081 atcccggccg tcgccgtccc ggtttcctta atcggcacct tcgccgcgat gtatttgtgc
+     1141 ggcttcagcc tcaataacct gtcgctgatg gccctgacca tcgccaccgg cttcgtggtg
+     1201 gatgacgcta tcgtggtgct ggagaatatc tcccgccatc tggaggcggg gatgaaaccg
+     1261 ctgcaggcgg cgctgcaggg gagccgcgag gtcggcttta ccgtgctgtc gatgagcctg
+     1321 tcgctggtgg cggtgttcct gccgctgctg ctgatgggcg gcctgcccgg ccgcctgctg
+     1381 cgcgagttcg ccgtcaccct gtcggtggcg atcggcatct cgctggcggt ctccctcacc
+     1441 ctgacgccga tgatgtgcgg ctggctgctg aaaagcggca agccccacca gccgacgcgc
+     1501 aaccgcggct ttggccgcct gctggtggcc gtgcagggcg gctatggtaa atcgttaaaa
+     1561 tgggtgctga agcatagccg cctgaccggc ctggtggtgc tgggcaccat cgccctcagc
+     1621 gtctggctct acatttcgat cccgaaaacc ttcttcccgg agcaggacac cggggtgctg
+     1681 atgggcggca ttcaggccga ccagagcatc tccttccagg cgatgcgcgg caagctgcag
+     1741 gactttatga agatcattcg cgaagatccg gcggtggata acgtcaccgg ctttaccggc
+     1801 ggctcgcggg tcaacagcgg gatgatgttt atcaccctca agccgcgcga ccagcgccac
+     1861 gagacggcgc agcaggtgat cgaccggctg cgcaaaaagc tggccaacga gcccggggcc
+     1921 aacctgtttc tgatggcggt gcaggatatc cgcgtcggcg gccggcagtc gaacgccagc
+     1981 tatcagtaca ccctgctgtc cgacgacctg tcggcgctgc gcgagtggga gccgaagatc
+     2041 cgcaaagcgc tggcggtgct gccggagctg gcggacgtca actccgatca gcaggacaat
+     2101 ggcgccgaaa tggacctggt ctatgaccgg gataccatgt cgcgcctcgg catcagcgtc
+     2161 caggacgcca acaacctgct gaacaacgcc tttggccagc ggcagatctc taccatctac
+     2221 cagccgctca accagtataa ggtggtgatg gaggtggatc cggcctacac ccaggacgtc
+     2281 agcgccctgg ataagatgtt cgtcattaac agcgacggca agccgatccc gctggcctac
+     2341 ttcgccaaat ggcagccggc caatgccccg ctgtcggtga accaccaggg gctgtcggcg
+     2401 gcatccacta tctcctttaa cctgcccacc ggccgctcgc tgtcggaagc cagcgaggcc
+     2461 attgaccgcg cgatgaccca gctcggggtg ccgtcgagcg tgcgcggctc ctttgccggt
+     2521 accgctcagg tgttccagca gaccatgaac gcgcaggtga tcctgatcct cgcggctatc
+     2581 gccacggtct atatcgtgct gggggtgcta tatgagagct atgtgcatcc gttgaccatc
+     2641 ctctcgacgc tgccctccgc cggggtgggc gctctgctgg cgctggagat cttcgatgcc
+     2701 ccgttcagcc taatcgccct gattgggatt atgttattaa ttggcatcgt caagaaaaac
+     2761 gccatcatga tggttgattt tgccctggag gcgcagcgta acggcaacct gacgccggaa
+     2821 gaggcgattt tccaggcctg cctgctgcgt ttccggccga ttatgatgac caccctcgcc
+     2881 gcgctgttcg gcgccctgcc gctggtgctc tccgggggcg atggctctga gctgcgccag
+     2941 ccgctgggga tcaccatcgt cggcggtctg gtgatgagcc agctgttaac gctctacacc
+     3001 acgccggtgg tctatctttt ctttgaccgt ctgcggctgc gtttttcgcg tcactcctct
+     3061 caaccggtaa gcgaataa
+//
+
